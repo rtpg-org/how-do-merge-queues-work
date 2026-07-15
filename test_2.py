@@ -2,7 +2,7 @@ import sys
 
 a = 2
 
-b = 0
+b = 1
 
 if a + b > 5:
     print("FAILED")
