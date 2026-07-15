@@ -2,7 +2,8 @@ name: test-1
 
 on:
   pull_request:
-
+  merge_group:
+    
 jobs:
   test-1:
     runs-on: ubuntu-latest
